@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shaathveegaa-computational-universe.vshaalini17.chatgpt.site/sitemap.xml

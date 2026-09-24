@@ -1,0 +1,1 @@
+{"name":"shaathveegaa-portfolio","private":true,"type":"module","scripts":{"dev":"node serve.mjs","check":"node --check dist/app.js && node --check dist/data.js && node --check dist/core.js"}}
